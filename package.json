@@ -1,0 +1,21 @@
+{
+  "name": "query",
+  "version": "1.0.0",
+  "description": "use example",
+  "main": "index.js",
+  "dependencies": {
+    "web3": "^1.0.0-beta.34"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaidiren/Query.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaidiren/Query/issues"
+  },
+  "homepage": "https://github.com/kaidiren/Query#readme"
+}
